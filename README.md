@@ -7,4 +7,4 @@ perubahan pada file `data.txt`.
 
 ## Anggota Kelompok
 - Octavian
-- Nama Anggota 2
+- Dava
